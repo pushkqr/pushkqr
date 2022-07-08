@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo10721
-Fork on GitHub2685
+
 <h1 align="center">Hi 👋, I'm Pushkar Oli</h1>
 <h3 align="center">A passionate freshman student from India</h3>
 
