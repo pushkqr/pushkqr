@@ -1,16 +1,33 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/pushkar-oli-a15b91152/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=pushkqr&style=flat-square&color=blue" alt=""/>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo10721
+Fork on GitHub2685
+<h1 align="center">Hi 👋, I'm Pushkar Oli</h1>
+<h3 align="center">A passionate freshman student from India</h3>
 
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkqr&label=Profile%20views&color=0e75b6&style=flat" alt="pushkqr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkqr" alt="pushkqr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/pushkqr_" target="blank"><img src="https://img.shields.io/twitter/follow/pushkqr_?logo=twitter&style=for-the-badge" alt="pushkqr_" /></a> </p>
+
+- 🌱 I’m currently learning **C and C++**
+
+- 📫 How to reach me **pushkaroli@protonmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pushkqr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkqr_" height="30" width="40" /></a>
+<a href="https://instagram.com/pushkar.oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkar.oli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pushkqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushkqr" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkqr&show_icons=true&locale=en&layout=compact" alt="pushkqr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkqr&show_icons=true&locale=en" alt="pushkqr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkqr&" alt="pushkqr" /></p>
+
