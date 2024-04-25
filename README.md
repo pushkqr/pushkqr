@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pushkqr_" target="blank"><img src="https://img.shields.io/twitter/follow/pushkqr_?logo=twitter&style=for-the-badge" alt="pushkqr_" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **pushkaroli@protonmail.com**
 
