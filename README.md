@@ -36,7 +36,5 @@
   
   <br/>
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pushkqr&theme=dark" alt="GitHub Streak" />
-  </a>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkqr&" alt="pushkqr" /></p>
 </div>
