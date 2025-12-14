@@ -35,5 +35,5 @@
   </table>
   
   <br/>
-  <img src="https://streak-stats.demolab.com?user=pushkqr&theme=dark" alt="Streak Stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=pushkqr)](https://git.io/streak-stats)
 </div>
