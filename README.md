@@ -23,15 +23,14 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pushkqr&theme=darkhub&column=7" alt="pushkqr trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Main_Stack-React_%7C_Node_%7C_Python-blue?style=flat-square&logo=react" alt="Stack" />
+  <img src="https://img.shields.io/github/stars/pushkqr?style=flat-square&logo=github&color=0e75b6" alt="Stars" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkqr&theme=dark" alt="pushkqr streak" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkqr&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+
   <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkqr&theme=github-dark" alt="pushkqr activity graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkqr&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
 </div>
