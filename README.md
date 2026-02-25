@@ -18,21 +18,20 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,java,php,cpp,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,react,nodejs,express&theme=dark" />
   </a>
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkqr&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=pushkqr&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pushkqr&theme=darkhub&column=7" alt="pushkqr trophies" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkqr&theme=dark" alt="pushkqr streak" />
   
-  <br/>
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkqr&theme=github-dark" alt="pushkqr activity graph" />
 </div>
