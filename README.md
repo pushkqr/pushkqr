@@ -18,7 +18,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,react,nodejs,express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,react,nodejs,express,mongodb,firebase,mysql&theme=dark" />
   </a>
 </p>
 
@@ -27,10 +27,7 @@
   <img src="https://img.shields.io/github/stars/pushkqr?style=flat-square&logo=github&color=0e75b6" alt="Stars" />
 
   <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkqr&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkqr&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400" />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkqr&theme=dark" alt="GitHub Profile Summary" />
+  </p>
 </div>
